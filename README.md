@@ -1,21 +1,46 @@
-# co6d140378c2d973e5896b23d
+# Dynamic Cookies Consent Modal
 
-Quick start:
+![image](https://github.com/himhemant/Dynamic-Cookies/assets/70750262/4710d532-776c-4e63-bfe2-f389d52202f1)
 
-```
-$ npm install
-$ npm start
-````
+Welcome to the Dynamic Cookies Consent Modal project! This project provides a dynamic and interactive cookies consent experience for websites, allowing users to manage their consent preferences.
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+## Features
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+- Interactive modal window with smooth transitions
+- Hover effect to toggle between accept and decline options
+- Form validation to ensure required fields are filled
+- Sarcastic response and animated GIF upon successful submission
+- Asynchronous programming for seamless user experience
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Technologies Used
 
-Happy Coding!
+- HTML
+- CSS
+- JavaScript
+
+## Getting Started
+
+To use this project locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/himhemant/dynamic-cookies.git`
+2. Open `index.html` in your web browser.
+3. Explore the interactive cookies consent experience!
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch: `git checkout -b feature/your-feature`
+3. Make your changes and commit them: `git commit -am 'Add your feature'`
+4. Push the changes to your forked repository: `git push origin feature/your-feature`
+5. Submit a pull request
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+- Normalize.css library (https://necolas.github.io/normalize.css/)
+- Animated GIF sourced from GIPHY (https://giphy.com/)
